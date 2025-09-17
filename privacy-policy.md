@@ -45,8 +45,8 @@ When you sign in to our App using Google Authentication, we collect:
 
 ### When We May Disclose Information
 We may disclose your information only in the following circumstances:
-- When required by law or legal process
-- To protect our rights, property, or safety, or that of our users
+- When required by law or legal process (users will be notified if legally permitted)
+- To protect our rights, property, or safety, or that of our users (users will be notified if legally permitted)
 - In connection with a business transfer or acquisition (users will be notified)
 
 ## Data Security
@@ -63,7 +63,7 @@ We implement appropriate technical and organizational measures to protect your p
 You have the right to:
 - Access the personal information we hold about you
 - Request correction of inaccurate information
-- Request deletion of your account and associated data
+- Request deletion of your account and associated personal data
 
 To exercise these rights, please contact us at garrett@elefluent.com.
 
