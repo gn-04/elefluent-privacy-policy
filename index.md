@@ -42,6 +42,7 @@ When you sign in to our App using Google Authentication, we collect:
 - We do **NOT** sell, trade, or rent your personal information to third parties
 - We do **NOT** use your email address or name for marketing purposes
 - We do **NOT** share your personal information with advertisers or data brokers
+- We do **NOT** share your personal information with other users or any other party.
 
 ### When We May Disclose Information
 We may disclose your information only in the following circumstances:
