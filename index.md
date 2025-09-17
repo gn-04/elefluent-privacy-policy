@@ -15,8 +15,10 @@ When you sign in to our App using Google Authentication, we collect:
 
 ### Usage Information
 - Podcast subscriptions and preferences
+- Transcriptions you generate
 - Audio clips you create from podcasts
 - Your user ID for database management purposes
+- Transcription and translation credits
 
 ## How We Use Your Information
 
